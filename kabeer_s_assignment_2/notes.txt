@@ -7,3 +7,7 @@ Level 1 : I read the file using its complete url. with command cat. the password
 Level 2 : I cat the file to console. used double quotes to write the filename. 
 knew this already for some reason. 
 password found is MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+Level 3 : CD to inhere directory. then list all with the option -a.
+again, knew this for some reason
+password found is 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

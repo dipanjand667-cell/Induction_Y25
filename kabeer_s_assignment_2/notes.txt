@@ -68,3 +68,12 @@ Level 11:
 see man for tr (translate)
 command is tr "a-m n-z A-M N-Z" "n-z a-m N-Z A-M" < data.txt
 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+Level 12:
+had to use ai for first time. the language is wierd
+they say a hex dum of a file that has been compressed many times
+i was trying to decompress data.txt for very long time
+with the intention that ill unhexdump at the end
+apparently i had to unhexdump first
+then decompress lots of time using gzip, bzip2 and tar
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

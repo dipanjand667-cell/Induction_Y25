@@ -41,4 +41,14 @@ Level 7:
 see man grep to see its usage
 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
-
+Level 8:
+see man for uniq, sort and grep
+the following command gives the password directly
+sort data.txt | uniq -c | grep -e "1 "
+    idea is to sort the lines first, so duplicate lines become adjacent. 
+    this is required because uniq requires duplicate lines to be adjacent only. 
+    now send this sorte output to uniq. 
+    uniq will print all unique lines.
+    we dont want that. so we use -c option to precede every line by its count
+    then grep "1 " from the output
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM

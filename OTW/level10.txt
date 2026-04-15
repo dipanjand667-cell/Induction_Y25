@@ -1,0 +1,1 @@
+I am going to be for real, I had no idea how to solve this :p, I straight up googled how to use base64 : cat data.txt | base64 -d

@@ -1,0 +1,1 @@
+Again, absolutely no idea here, I straight up googled this : cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
